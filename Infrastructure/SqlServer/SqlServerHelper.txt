@@ -1,4 +1,4 @@
 A
-
 # 2024.03.15 鈴木淳編集
 編集した文章です。
+// Infrastructure\SqlServer\SqlServerHelper.txt 修正
