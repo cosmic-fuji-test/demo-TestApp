@@ -1,1 +1,2 @@
 // View/Func2ViewModel.txt作成しました
+//20240315 Func2ViewModel 修正しました
